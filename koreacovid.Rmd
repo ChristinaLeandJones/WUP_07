@@ -67,9 +67,12 @@ colPerc(table2)
 ```
 
 Med died at almost twice the rate as women did from COVID in Korea. 36% of the dead were women and 64% of the dead were men. Men are dying at twice the rate as women. 
-The numbers also show us that very few people actually die of COVID. 
+1.4% of females died while 3% of men died. 
+The numbers also show us that very few people actually die of COVID
 
 ## Inferential results 
+
+
 
 
 
