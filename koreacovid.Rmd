@@ -72,10 +72,16 @@ The numbers also show us that very few people actually die of COVID
 
 ## Inferential results 
 
-
-
+```{r}
+chisq.test(table2)
+chisqtestGC(table2)
+fisher.test(table2)
+```
+The P value od 0.001 to low so we reject the NULL hypothesis that death rate is dependent on sex. The Fisher exact test shows that men died at 2.3 times the rate women died. 
 
 
 
 ## Conclusions
+
+We reject the NULL hypothesis, because the P value is so low. Men died at 2.3 times the rate that women died. We conclude that the death rate of South Koreans was dependent on sex. 
 
